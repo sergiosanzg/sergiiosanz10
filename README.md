@@ -7,7 +7,7 @@
 
 </p>
 
-# 💻 Tech Stack:
+# 💻 Skills:
 <p align="center">
   
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=1572B6&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)

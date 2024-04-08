@@ -1,9 +1,4 @@
-<h1 align="center">Hey, I'm Sergio Sanz.</h1>
-
-<div style="display: flex; align-items: center;">
-  <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="150" height="150" autoplay loop>
-  <p>Introduce aquí tu texto o contenido adicional.</p>
-</div>
+<h1 align="center">Hey, I'm Sergio Sanz. <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="150" height="150" autoplay loop></h1>
 
 ## 🌐 Socials:
 <p align="center">

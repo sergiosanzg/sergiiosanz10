@@ -8,19 +8,20 @@
 # 💻 Tech Stack:
 <p align="center">
   
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=777BB4)](https://www.php.net/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&labelColor=007ACC)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=DD0031)](https://angular.io/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=563D7C)](https://getbootstrap.com/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=0769AD)](https://jquery.com/)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&labelColor=CB3837)](https://www.npmjs.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=43853D)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=61DAFB)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=61DAFB)](https://reactnative.dev/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=CA4245)](https://reactrouter.com/)
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/)
+[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
+[![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)](https://angular.io/)
+[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)
+[![jQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg)](https://jquery.com/)
+[![NPM](https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg)](https://www.npmjs.com/)
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
+[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactnative.dev/)
+[![React Router](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactrouter.com/)
+
 
 
 

@@ -1,5 +1,7 @@
-<h1 align="center">Hey, I'm Sergio Sanz. <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="80" height="50"></h1>
-
+<div style="display: flex; align-items: center;">
+  <h1>Hey, I'm Sergio Sanz.</h1>
+  <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="80" height="50">
+</div>
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/sergiiosanz_10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>

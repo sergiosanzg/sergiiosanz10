@@ -1,5 +1,7 @@
-<h1 align="center">Hey, I'm Sergio Sanz.</h1><img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" />
-
+<h1 align="center">Hey, I'm Sergio Sanz.</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Texto Alternativo" />
+</p>
 
 ## 🌐 Socials:
 <p align="center">

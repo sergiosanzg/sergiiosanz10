@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Sergio Sanz. <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="90" height="60"></h1>
 <h2>🌐 Socials: 🔗</h2>
 <p align="center">
-  <a href="https://instagram.com/sergiiosanz_10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/sergio-sanz-b56057270/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/sergiiosanz_10">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)</a>
+  <a href="https://www.linkedin.com/in/sergio-sanz-b56057270/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)</a>
 </p>
 
 # 💻 Tech Stack:

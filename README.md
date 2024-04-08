@@ -8,19 +8,20 @@
 # 💻 Tech Stack:
 <p align="center">
   
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/)
-[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
-[![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)](https://angular.io/)
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)
-[![jQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg)](https://jquery.com/)
-[![NPM](https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg)](https://www.npmjs.com/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
-[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactnative.dev/)
-[![React Router](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactrouter.com/)
+[![CSS3](https://icon-icons.com/icons2/2107/PNG/64/file_type_css_icon_130661.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://icon-icons.com/icons2/2107/PNG/64/file_type_js_official_icon_130509.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://icon-icons.com/icons2/2107/PNG/64/file_type_html_icon_130541.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![PHP](https://icon-icons.com/icons2/2107/PNG/64/file_type_php_icon_130266.png)](https://www.php.net/)
+[![TypeScript](https://icon-icons.com/icons2/2107/PNG/64/file_type_typescript_official_icon_130107.png)](https://www.typescriptlang.org/)
+[![Angular](https://icon-icons.com/icons2/2107/PNG/64/file_type_angular_icon_130754.png)](https://angular.io/)
+[![Bootstrap](https://icon-icons.com/icons2/2107/PNG/64/file_type_bootstrap_icon_130745.png)](https://getbootstrap.com/)
+[![jQuery](https://icon-icons.com/icons2/2107/PNG/64/file_type_jquery_icon_130541.png)](https://jquery.com/)
+[![NPM](https://icon-icons.com/icons2/2107/PNG/64/file_type_npm_icon_130377.png)](https://www.npmjs.com/)
+[![Node.js](https://icon-icons.com/icons2/2107/PNG/64/file_type_node_icon_130301.png)](https://nodejs.org/)
+[![React](https://icon-icons.com/icons2/2107/PNG/64/file_type_reactjs_icon_130205.png)](https://reactjs.org/)
+[![React Native](https://icon-icons.com/icons2/2107/PNG/64/file_type_reactjs_icon_130205.png)](https://reactnative.dev/)
+[![React Router](https://icon-icons.com/icons2/2107/PNG/64/file_type_reactjs_icon_130205.png)](https://reactrouter.com/)
+
 
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey 👋! Soy Sergio Sanz 👨🏻‍💻 <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="90" height="60"></h1>
+<h1 align="center">¡Hey 👋! Soy Sergio Sanz <img src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" alt="Garfield" width="90" height="60" loop></h1>
 <h2>🌐 Socials: 🔗</h2>
 <p align="center">
 <a href="https://instagram.com/sergiiosanz_10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>

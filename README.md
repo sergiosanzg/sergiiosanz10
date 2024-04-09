@@ -1,9 +1,10 @@
 <h2 align="center">Hey 👋!  I'm Sergio Sanz</h2>
 
 ###
-
-<h3 align="center">A passionate frontend developer 👨🏻‍💻</h3>
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=1000&color=F7993F&center=true&random=false&width=435&lines=A+passionate+frontend+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div>
+  
 ###
 
 <br clear="both">

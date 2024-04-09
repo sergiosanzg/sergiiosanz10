@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif" autoplay loop />
+<img align="right" height="150" src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif"  />
 
 ###
 
@@ -56,24 +56,3 @@
 
 <img src="https://raw.githubusercontent.com/sergiiosanz10/sergiiosanz10/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/sergiiosanz10/sergiiosanz10/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/sergiiosanz10/sergiiosanz10/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sergiiosanz10/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###

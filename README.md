@@ -60,7 +60,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/2d/67/2e/2d672e134ebd7afaa7d731827482601d.gif"  loop/>
 </div>
 
 ###

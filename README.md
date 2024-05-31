@@ -1,20 +1,23 @@
 <h2 align="center">Hey 👋!  I'm Sergio Sanz</h2>
 
 ###
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=1000&color=F7993F&center=true&random=false&width=435&lines=A+passionate+Front-end+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-<div>
-  
+
+<h3 align="center">A passionate frontend developer 👨🏻‍💻</h3>
+
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
 </div>
 
 ###
@@ -41,6 +48,7 @@
   <a href="https://www.instagram.com/sergiiosanz_10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/sergiiosanz10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>

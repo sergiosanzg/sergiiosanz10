@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/sergiiosanz10/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergiosanzg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiiosanz10&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=segiosanzg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
